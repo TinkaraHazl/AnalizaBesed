@@ -1,2 +1,2 @@
 # AnalizaBesed
-Analiza
+Analiza seznama besedil
