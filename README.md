@@ -1,2 +1,5 @@
 # AnalizaBesed
-Analiza seznama besedil
+Analiza seznama besed
+
+## Avtorji:
+Tinkara Hazl
